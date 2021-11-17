@@ -1,0 +1,7 @@
+{
+  "name": "tareaTaller",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
