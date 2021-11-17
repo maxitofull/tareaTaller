@@ -5,7 +5,7 @@ Utilice el comando para instalar Cordova globalmente en la maquina.
 
 npm install -g cordova ionic
 
-Instalé una nueva aplicación Ionic Angular con la ayuda de Ionic CLI, ejecute el siguiente comando en su terminal.
+Instalé una nueva aplicación Ionic Angular con la ayuda de Ionic CLI, ejecuté el siguiente comando en el terminal.
 
 ionic start tareaTaller-app blank --type=angular
 Carpeta del proyecto.
@@ -71,7 +71,7 @@ import  NativeGeocoder  from '@ionic-native/native-geocoder/ngx';
 
 export class AppModule 
 
-En este apartado, no pude obtener  la latitud y longitud de la ubicación del dispositivo del usuario actual mediante la geolocalización. Describiré lo que agregue paro obtener la posición del dispositivo del usuario al abrir home.pge.ts archivo y agregar el código, que sin embargo no funcionó.
+En este apartado, no pude obtener  la latitud y longitud de la ubicación del dispositivo del usuario actual mediante la geolocalización. Describiré lo que agregue para obtener la posición del dispositivo del usuario al abrir home.pge.ts archivo y agregar el código, que sin embargo no funcionó.
 
 
 import  Component, NgZone  from '@angular/core';
