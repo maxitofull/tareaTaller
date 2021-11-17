@@ -1,7 +1,7 @@
-Se creo un  nuevo proyecto iónico / angular para el trabajo de taller dispositivos móviles 
+Se creó un  nuevo proyecto iónico / angular para el trabajo de taller dispositivos móviles 
 En este proyecto, se instalo y puso a prueba la principal funcionaliad de la aplicacion, el cual es la geolocalización y posición de guardias.
 
-Utilice el comando para instalar Cordova globalmente en la maquina.
+Utilicé el comando para instalar Cordova globalmente en la maquina.
 
 npm install -g cordova ionic
 
